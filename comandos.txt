@@ -1,1 +1,12 @@
 1.- git init (Inicializa una carpeta como repositorio local)
+2.- git add "nombre del archivo" o git add . (me agrega los archivos al repositorio)
+3.- git commit -m "mensaje" ()  (esto es para dejar descripciones o textos)
+4.- ligar con un repositorio remoto copiar la línea de github
+5.- git push-u origin master o git push -u origin main (uno u otro)
+
+
+-----
+Para subir cambios, repetir pasos 2, 3 y 5
+
+-----
+visual
